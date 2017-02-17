@@ -11,10 +11,7 @@
     <build>
         <finalName>${project.artifactId}</finalName>
         <plugins>
-            <plugin>
-                <groupId>org.codehaus.mojo</groupId>
-                <artifactId>build-helper-maven-plugin</artifactId>
-                <version>1.12</version>
+            <plugin id="org.codehaus.mojo:build-helper-maven-plugin:1.12">
                 <executions>
                     <execution>
                         <id>attach-artifacts</id>
