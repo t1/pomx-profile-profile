@@ -8,6 +8,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     </properties>
+    <profile>com.github.t1:profile-t1:1.0.0-SNAPSHOT</profile>
 
     <build>
         <finalName>${project.artifactId}</finalName>
