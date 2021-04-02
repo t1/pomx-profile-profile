@@ -1,2 +1,2 @@
-pomx-profile.iml
-pomx-profile-profile.iml
+*.iml
+/target/
